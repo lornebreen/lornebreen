@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lornebreen
-- 👀 I’m interested in Web development, Vue, Node
-- 🌱 I’m currently Vue
+- 👀 I’m interested in Web development, Vue, Node, Delphi
+- 🌱 I’m currently learning Vue3
 - 💞️ I’m looking to collaborate not sure yet
 - 📫 How to reach me lornebreen@gmail.com
 
